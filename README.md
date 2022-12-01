@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Prajwal
+- 👀 I’m interested in Development and Competitive Programming!
+- 🌱 I’m currently learning Web development
+- 🍔 I,m currently in 1st year CSE.
+- 📫 How to reach me @Prajwalrajj  (Twitter)
