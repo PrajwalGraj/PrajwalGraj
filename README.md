@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Open-source contribution<br>🌱 I’m currently learning Full stack Web development<br>⚡  Fun fact I hate Light mode in VScode<br>📌 I'm currently in my 2nd year of CSE<br>🏆 Outstanding Contributor at Hacktoberfest 2023 W-1<br>👾 Global rank 57 at CodeChef December long
+🔭 I’m currently working on Open-source contribution<br>🌱 I’m currently learning Full stack Web development<br>⚡  Fun fact I hate Light mode in VScode<br>📌 I'm currently in my 3rd year of CSE<br>🏆 Outstanding Contributor at Hacktoberfest 2023 W-1<br>👾 Global rank 57 at CodeChef December long
 
 [![An image of @prajwalgraj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prajwalgraj)](https://holopin.io/@prajwalgraj)
 
