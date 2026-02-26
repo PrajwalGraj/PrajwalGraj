@@ -23,6 +23,6 @@ const prajwal = {
 <img src="https://skillicons.dev/icons?i=ts,js,py,rust,nodejs,express,nextjs,fastapi,postgres,mongodb,docker,aws,git,tailwind,html,css" />
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-g-617908247/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Prajwalrajjj) <a href="https://www.codechef.com/users/prajwalraj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prajwalraj" height="30" width="40" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwalrajjj) [![X](https://img.shields.io/badge/-000000.svg?logo=X&logoColor=white)](https://x.com/prajwalrajjj) <a href="https://www.codechef.com/users/prajwalraj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prajwalraj" height="30" width="40" /></a>
 
 
