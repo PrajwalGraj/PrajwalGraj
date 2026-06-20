@@ -21,8 +21,3 @@ const prajwal = {
 
 # 💻 Tech Stack:
 <img src="https://skillicons.dev/icons?i=ts,js,py,rust,nodejs,express,nextjs,fastapi,postgres,mongodb,docker,aws,git,tailwind,html,css" />
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwalrajjj) [![X](https://img.shields.io/badge/-000000.svg?logo=X&logoColor=white)](https://x.com/prajwalrajjj) <a href="https://www.codechef.com/users/prajwalraj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prajwalraj" height="30" width="40" /></a>
-
-
