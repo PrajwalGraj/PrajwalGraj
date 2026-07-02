@@ -1,4 +1,4 @@
-<h3 align="center"> Web2 + Web3 Dev   </h3>
+
 
 ```ts
 const prajwal = {
