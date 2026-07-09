@@ -1,18 +1,22 @@
+```console
+Last login: Wed Jul  9 23:43:18 on ttys000
 
+prajwalg@Prajwals-MacBook-Air ~ % whoami
+Prajwal G
 
-```ts
-const prajwal = {
-  name: "Prajwal G",
-  role: "Web2 + Web3 Dev",
-  buildingAcross: ["Web2", "Web3"],
+prajwalg@Prajwals-MacBook-Air ~ % cat about.ts
+
+export default {
+  buildingOn: "Solana",
+  learning: ["RPC", "Indexers", "Distributed Systems"],
+  skills: ["Rust", "TypeScript", "Solana"],
   openSource: true,
   hackathons: true,
   bountyHunter: true,
-  os: "Mac",
-  skills: ["TypeScript", "Rust", "Solana"]
-}
-```
+};
 
+prajwalg@Prajwals-MacBook-Air ~ %
+```
 
 
 [![An image of @prajwalgraj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prajwalgraj)](https://holopin.io/@prajwalgraj)
